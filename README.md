@@ -7,6 +7,7 @@ Retains the 7.5 reduction ratio and optionally motor of the Orbiter but performa
 
 All parts sourceable from Aliexpress, but at the moment, requires lathe, including 4-jaw operations and likely resin/SLS for some components.
 
-![Trudy 2025-06-01 Dial](https://github.com/user-attachments/assets/c498f7c0-a2fa-4ddb-9f3d-167a7312ef4c)
+![Trudy 2025-06-05 Filament Load](https://github.com/user-attachments/assets/b8a74f06-9e66-448c-9704-cb91c26fb709)
 ![Trudy 2025-06-01 Dial Effector Postion Transverse](https://github.com/user-attachments/assets/cfda9886-b373-491d-a3e9-d7f310716018)
-![Trudy 2025-06-01 Dial Effector Postion Saggital](https://github.com/user-attachments/assets/1920596e-7786-4003-ba98-5caf58d9991f)
+![Trudy 2025-06-05 Effector Position Saggital](https://github.com/user-attachments/assets/5acb9fe2-18d2-4d73-a7e8-35696e0fe545)
+
