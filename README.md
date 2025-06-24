@@ -7,7 +7,7 @@ Retains the 7.5 reduction ratio and optionally motor of the Orbiter but performa
 
 All parts sourceable from Aliexpress, but at the moment, requires lathe, including 4-jaw operations and likely resin/SLS for some components.
 
-![Trudy 2 2025-06-23](https://github.com/user-attachments/assets/f529cc91-782d-4d07-9303-022a8e5bdb4d)
+![Trudy 2 2025-06-24](https://github.com/user-attachments/assets/49ad24c3-e9a4-4e8e-89a7-7449c1b1a03d)
 ![Trudy 2025-06-24 Saggital](https://github.com/user-attachments/assets/7c1c4f68-8345-4836-b80f-a8338031e7a5)
 ![Trudy 2025-06-24 Transverse](https://github.com/user-attachments/assets/003088d9-1a96-4283-bf88-a6b45593754d)
 
